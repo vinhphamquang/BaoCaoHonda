@@ -4,10 +4,6 @@ Một website hoàn chỉnh cho cửa hàng ô tô VinFast được xây dựng 
 
 ## 🚀 Tính năng chính
 
-### 🏠 Trang chủ
-- Hero section với thông tin nổi bật
-- Hiển thị các mẫu xe VinFast nổi bật
-- Giới thiệu về thương hiệu và ưu điểm
 
 ### 🚗 Quản lý sản phẩm
 - Danh sách đầy đủ các mẫu xe VinFast (VF 3, VF 5, VF 6, VF 7, VF 8, VF 9, Lux A2.0, Lux SA2.0)
